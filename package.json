@@ -1,0 +1,32 @@
+{
+    "name": "39-grupe-js-intro",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "dev": "nodemon",
+        "letters": "nodemon ./nd/letters.js",
+        "bigNum": "nodemon ./nd/bigNum.js",
+        "numSize": "nodemon ./nd/numSize.js",
+        "daugyba": "nodemon ./nd/daugyba.js",
+        "tusciaFunkcija": "nodemon ./nd/tusciaFunkcija.js",
+        "object": "nodemon ./js/object.js",
+        "arrow": "nodemon ./js/arrow.js",
+        "loops": "nodemon ./js/loops.js",
+        "function": "nodemon ./js/function.js",
+        "switch": "nodemon ./js/switch.js",
+        "if": "nodemon ./js/if.js",
+        "for": "nodemon ./js/for.js",
+        "array": "nodemon ./js/array.js",
+        "boolean": "nodemon ./js/boolean.js",
+        "strings": "nodemon ./js/strings.js",
+        "numbers": "nodemon ./js/numbers.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "Rimantas",
+    "license": "MIT",
+    "devDependencies": {
+        "nodemon": "^2.0.18"
+    }
+}
